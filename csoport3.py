@@ -12,9 +12,9 @@ def szorny():
     return sz
 
 def fegyver():
-    print(f"{'='*(hossz)}")
+    print(f"{'='*hossz}")
     print(f"{'- valassz fegyvert! -':^{hossz}}")
-    print(f"{'-'*{hossz}}")
+    print(f"{'-'*hossz}")
     print(f"{'1 - íj'}")
     print(f"{'2 - kard'}")
     print(f"{'3 - varazspalca'}")
