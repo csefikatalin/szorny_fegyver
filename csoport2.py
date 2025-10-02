@@ -2,7 +2,7 @@ hossz:int=30
 
 def harc_eredmeny_kiir(fegyver:str, szorny:str, eredmeny:str):
     print(f"{'='*{hossz}}")
-    print(f"{'A harc eredménye' :^{hossz}}")
+    print(f"{'A HARC EREDMÉNYE' :^{hossz}}")
     print(f"{'-'*{hossz}}")
     print(f"{'A '+ szorny + ' ellen harcoltál' :^{hossz}}")
     print(f"{'-'*{hossz}}")
